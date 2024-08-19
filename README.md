@@ -1,2 +1,2 @@
 # omni-browser
-Open Source Browser
+A privacy-focused browser with integrated AI assistant Omni
